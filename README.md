@@ -1,11 +1,7 @@
-# Tài Xỉu Predictor
-
-Tool tự động lấy kết quả và dự đoán Tài Xỉu từ web.sunwin.today
+# TXAuto - Tool tự động lấy kết quả Tài Xỉu
 
 ## Cài đặt
-
-```bash
-git clone https://github.com/tenban/tx-predictor.git
-cd tx-predictor
-npm install
-node index.js
+1. Clone repo:
+   ```bash
+   git clone https://github.com/yourname/txauto.git
+   cd txauto
