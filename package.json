@@ -1,0 +1,14 @@
+{
+  "name": "tx-predictor",
+  "version": "1.0.0",
+  "description": "Tự động lấy kết quả Tài Xỉu và dự đoán",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2",
+    "axios": "^1.6.0",
+    "puppeteer": "^21.0.0"
+  }
+}
